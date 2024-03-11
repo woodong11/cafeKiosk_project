@@ -14,6 +14,10 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
+먼저 cafeMenuProject 폴더 안에 있는 파일들을 개인 aws 서버에 옮기고, IP를 기록해둡니다. <br>
+이후 백엔드에서 node index.js로 서버를 켜고, 다음을 진행합니다.
+
+
 ```sh
 npm install
 ```
