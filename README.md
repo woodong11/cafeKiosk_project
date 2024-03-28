@@ -2,7 +2,7 @@
 
 	
 vue, node로 만든 카페 키오스크입니다. <br>
-카페 관리자/ 사용자로 접속해서 메뉴 수정, 주문을 할 수 있는 웹 페이지입니다 (SSAFY 수업 내 미니 프로젝트)
+카페 관리자/ 사용자로 접속해서 메뉴 수정, 주문을 할 수 있는 웹 페이지입니다 (SSAFY 수업 프로젝트)
 
 ![1](https://github.com/woodong11/cafeKiosk_project/assets/91379630/04a2c6e7-72d9-4ec6-9188-dfdec21f3190)
 ![2](https://github.com/woodong11/cafeKiosk_project/assets/91379630/c8a83509-6eda-4ee4-bb58-023e2a31a0b6)
